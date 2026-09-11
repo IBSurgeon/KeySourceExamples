@@ -1,6 +1,6 @@
-# Сборка KeySource
+# Build KeySource
 
-## Сборка на C++ под Linux
+## Build on C++ under Linux
 
 ```
 cd build
